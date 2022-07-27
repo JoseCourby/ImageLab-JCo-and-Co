@@ -1,0 +1,12 @@
+/*Por Defecto*/
+@import url('css/default.css');
+/*Botones*/
+@import url('css/shortcode/buttons.css');
+/*Headers*/
+@import url('css/shortcode/header.css');
+/*Los Templetes*/
+@import url('css/template/creative.css');
+@import url('css/template/corporate.css');
+@import url('css/template/restaurant.css');
+@import url('css/template/minimal.css');
+@import url('css/template/photography.css');
